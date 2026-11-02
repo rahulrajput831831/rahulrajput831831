@@ -9,7 +9,7 @@
 ---
 
 ### 🔥 About Me
-- 🎓 CSE Undergrad | 3rd Year Student  
+- 🎓 CSE Undergrad | Final Year Student  
 - 📊 Passionate about **Data Science, Machine Learning**, and turning data into insight  
 - 🧠 Skilled in **Python, Pandas, NumPy, Scikit-Learn, Jupyter, Excel, Power BI**  
 - 💡 Keen interest in **AI, ML algorithms, and model deployment**  
